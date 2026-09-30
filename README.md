@@ -188,7 +188,7 @@ class Artem:
 
 ---
 
-### ⚡ [Прогнозирование потребления электроэнергии](https://github.com/Artem-megamozg)
+### ⚡ [Прогнозирование потребления электроэнергии](https://github.com/Artem-megamozg](https://github.com/Artem-megamozg/Software_suite_for_electricity_consumption_forecasting/tree/main)
 
 Программный комплекс для **прогнозирования потребления электроэнергии на производстве**.
 
