@@ -16,8 +16,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Artem-megamozg&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en" alt="GitHub Stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-megamozg&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top Languages">
