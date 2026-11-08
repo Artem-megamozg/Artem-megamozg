@@ -198,9 +198,9 @@ class Artem:
 
 ### 🥚 [MolBind](https://github.com/Artem-megamozg/MolBind)
 
-** MolBind — исследовательский проект по предсказанию взаимодействия малых молекул и белков 
+MolBind — исследовательский проект по предсказанию взаимодействия малых молекул и белков 
 
-с использованием методов глубокого обучения**.
+с использованием методов глубокого обучения.
 
 `Python` · `Deep Learning` · `Neural Networks`
 
@@ -208,9 +208,9 @@ class Artem:
 
 ### 🧪 [ProteinStructureML](https://github.com/Artem-megamozg/ProteinStructureML)
 
-**ProteinStructureML — исследовательский проект на стыке Machine Learning, Bioinformatics и Computational Biology, 
+ProteinStructureML — исследовательский проект на стыке Machine Learning, Bioinformatics и Computational Biology, 
 
-посвящённый предсказанию пространственной структуры белков по экспериментальным данным NMR**.
+посвящённый предсказанию пространственной структуры белков по экспериментальным данным NMR.
 
 `Python` · `Deep Learning` · `Neural Networks`
 
