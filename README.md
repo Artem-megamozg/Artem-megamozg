@@ -196,6 +196,26 @@ class Artem:
 
 ---
 
+### 🥚 [MolBind](https://github.com/Artem-megamozg/MolBind)
+
+** MolBind — исследовательский проект по предсказанию взаимодействия малых молекул и белков 
+
+с использованием методов глубокого обучения**.
+
+`Python` · `Deep Learning` · `Neural Networks`
+
+---
+
+### 🧪 [ProteinStructureML](https://github.com/Artem-megamozg/ProteinStructureML)
+
+**ProteinStructureML — исследовательский проект на стыке Machine Learning, Bioinformatics и Computational Biology, 
+
+посвящённый предсказанию пространственной структуры белков по экспериментальным данным NMR**.
+
+`Python` · `Deep Learning` · `Neural Networks`
+
+---
+
 ### 🤖 [Nirvana MAX](https://github.com/Artem-megamozg/nirvana-max)
 
 **AI-навигация по мерам государственной поддержки** в российском мессенджере MAX.
