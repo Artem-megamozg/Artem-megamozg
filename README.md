@@ -228,6 +228,22 @@ ProteinStructureML — исследовательский проект на ст
 
 ---
 
+### 🚗 [CarAI](https://github.com/Artem-megamozg/CarAI)
+
+Двумерный симулятор автономной парковки, разработанный на языке Python с использованием алгоритма PPO и метода обучения 
+
+с подражанием (Behavior Cloning). Включает четыре режима парковки, виртуальные лидары и ультразвуковые датчики, 
+
+средства компьютерного зрения, а также систему автоматической оценки эффективности.
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Gymnasium](https://img.shields.io/badge/Environment-Gymnasium-7B61A8)](https://gymnasium.farama.org/)
+[![Stable--Baselines3](https://img.shields.io/badge/RL-Stable--Baselines3-orange)](https://stable-baselines3.readthedocs.io/)
+[![Pygame](https://img.shields.io/badge/Visualization-Pygame-4B8BBE)](https://www.pygame.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
+
 ### 🧠 [ChatGPT-based Assistant](https://github.com/Artem-megamozg/ChatGPT-based-assistant)
 
 Интеллектуальный ассистент, комбинирующий **локальную обработку ключевых сценариев и генеративную модель**.
