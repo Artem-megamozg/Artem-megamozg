@@ -244,6 +244,18 @@ ProteinStructureML — исследовательский проект на ст
 
 ---
 
+### 🚀 [Dataset Doctor](https://github.com/Artem-megamozg/Dataset-Doctor)
+
+Dataset Doctor — локальное Python-приложение для первичного аудита табличных данных. 
+
+Загрузи CSV, Excel или Parquet, чтобы быстро увидеть структуру датасета, пропуски, дубликаты, 
+
+потенциальные выбросы, распределения и корреляции.
+
+`Python` · `Streamlit` · `Data Formats` · `CSV` · `XLSX` · `Parquet`
+
+---
+
 ### 🧠 [ChatGPT-based Assistant](https://github.com/Artem-megamozg/ChatGPT-based-assistant)
 
 Интеллектуальный ассистент, комбинирующий **локальную обработку ключевых сценариев и генеративную модель**.
